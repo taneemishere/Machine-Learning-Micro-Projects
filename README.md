@@ -1,3 +1,3 @@
-# Machine-Learning-Micro-Projects
-Some of the implementations of the machine learning algorithms. All these algorithms are the base of Machine Learning and one should, in my opinion learn these. 
+# Machine Learning Micro Projects
 
+This is a micro project in which I've coded some of the machine learning algorithms and shows how actually that specific ML algorithm work.
