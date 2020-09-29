@@ -23,3 +23,9 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+
+## The Plan
+The plan is to do all the algorithms, here the existing 
+algorithms to write it from scratch and to do it all by our 
+own. Like don't use the scikit learn library and it's pre built 
+codes and scores function. All in Python🐉.
